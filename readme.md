@@ -61,18 +61,18 @@ Bu proje aşağıdaki şirketler/şahıslar tarafından kullanılmaktadır:
 
 - Mifa Ads Agency Reklamcılık ve Pazarlama
 - Py Digital Works
-- cekdanytr (Müzisyen)
-- Reyz (Müzisyen,Prodüktör)
+- Jyro(Producer)
+- Reyz (Şarkıcı)
 
   
 # İletişim
 
 Skripy Group LLC
 
- New York Third Avenue St.
+ New York Third Avenue St. Near to ICC
 
 sales@skripy.xyz
 
 www.skripy.xyz
 
-Skripy Group LLC temsili bir şirkettir türkiyede farklı bir şirket tarafından yönetilmektedir.
+Skripy Group temsili bir şirkettir türkiyede farklı bir isimle faaliyet göstemektedir ve şirket Amerika merkezli Skripy LLC tarafından yönetilmektedir.
